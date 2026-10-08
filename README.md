@@ -153,7 +153,7 @@ It includes:
 |------|--------|
 | **Sirigosika** | [@sirigosika](https://github.com/sirigosika) |
 | **DivyavardhanSingh** | [@divyavardhansingh](https://github.com/divyavardhansingh) |
-| **RidhamChaudhary** | [@ridham ](https://github.com/ridham) |
+| **RidhamChaudhary** | [@ridham ](https://github.com/ChaudharyRidham56) |
 
 > *Update with your actual team member names and profiles.*
 
