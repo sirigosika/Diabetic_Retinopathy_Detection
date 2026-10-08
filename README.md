@@ -152,8 +152,8 @@ It includes:
 | Name | GitHub |
 |------|--------|
 | **Sirigosika** | [@sirigosika](https://github.com/sirigosika) |
-| Member 2 | [@divyavardhansingh](https://github.com/divyavardhansingh) |
-| Member 3 | [@ridham ](https://github.com/ridham) |
+| **DivyavardhanSingh** | [@divyavardhansingh](https://github.com/divyavardhansingh) |
+| **RidhamChaudhary** | [@ridham ](https://github.com/ridham) |
 
 > *Update with your actual team member names and profiles.*
 
